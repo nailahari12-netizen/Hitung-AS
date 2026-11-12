@@ -1,2 +1,2 @@
-# Hitung-AS
+# analisis-struktur-web
 menganalisis struktur
